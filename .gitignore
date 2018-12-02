@@ -3,3 +3,8 @@
 ################################################################################
 
 /src/LeekCodeProblems/bin/Debug/netcoreapp2.1
+/src/LeekCodeProblems/obj
+/src/LeekCodeProblems.Tests/bin/Debug/netcoreapp2.1
+/src/LeekCodeProblems.Tests/obj/Debug/netcoreapp2.1
+/src/LeekCodeProblems.Tests/obj
+/src/.vs
